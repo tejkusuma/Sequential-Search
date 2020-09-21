@@ -9,7 +9,7 @@ int main(){
 
 	
 	printf("------------------------------------------------- \n");
-	printf("|   PROGRAM MENCARI ANGKA DENGAN SEQUENSIAL     | \n");
+	printf("|   PROGRAM MENCARI ANGKA DENGAN SEQUENTIAL     | \n");
     printf("------------------------------------------------- \n\n");
     
     //memasukkan jumlah data oleh pengguna
